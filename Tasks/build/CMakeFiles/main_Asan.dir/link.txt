@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address CMakeFiles/main_Asan.dir/Tasks.cpp.o -o main_Asan  libString.a 

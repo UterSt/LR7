@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=thread CMakeFiles/main_Tsan.dir/Tasks.cpp.o -o main_Tsan  libString.a 

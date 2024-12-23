@@ -1,0 +1,7 @@
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/String.dir
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/main.dir
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/main_Asan.dir
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/main_Tsan.dir
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/test.dir
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/edit_cache.dir
+/home/user/Documents/453501/ОАиП/LR7/Tasks/build/CMakeFiles/rebuild_cache.dir
